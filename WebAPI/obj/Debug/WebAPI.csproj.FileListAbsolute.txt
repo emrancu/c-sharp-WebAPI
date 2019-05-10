@@ -1,0 +1,14 @@
+A:\VS\WebAPI\WebAPI\bin\Debug\WebAPI.exe.config
+A:\VS\WebAPI\WebAPI\bin\Debug\WebAPI.exe
+A:\VS\WebAPI\WebAPI\bin\Debug\WebAPI.pdb
+A:\VS\WebAPI\WebAPI\obj\Debug\WebAPI.Properties.Resources.resources
+A:\VS\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.GenerateResource.cache
+A:\VS\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+A:\VS\WebAPI\WebAPI\obj\Debug\WebAPI.exe
+A:\VS\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
+A:\VS\WebAPI\WebAPI\obj\Debug\WebAPI.MainForm.resources
+A:\VS\WebAPI\WebAPI\bin\Debug\Newtonsoft.Json.dll
+A:\VS\WebAPI\WebAPI\bin\Debug\Newtonsoft.Json.pdb
+A:\VS\WebAPI\WebAPI\bin\Debug\Newtonsoft.Json.xml
+A:\VS\WebAPI\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+A:\VS\WebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
